@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Morale">
+    <output-path>$PROJECT_DIR$/out/artifacts/Work</output-path>
+    <root id="root">
+      <element id="archive" name="Work.jar">
+        <element id="module-output" name="Work" />
+      </element>
+    </root>
+  </artifact>
+</component>
